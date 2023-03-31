@@ -5,9 +5,6 @@
     "siteDescription": "Apteczka Na Szlaku",
     "themeColor": "#fff",
     "lightTheme": true,
-    "logo": ["/logo.png", "/logo@2x.png"],
-    "purelogo": ["/purelogo.png", "/purelogo@2x.png"],
-    "logotype": ["/logotype.png", "/logotype@2x.png"],
     "info": "Aplikacja inicjatywy <a href='https://apteczkanaszlaku.eu//' target='_blank'>Apteczka Na Szlaku</a>",
     "adminInfo": "Administracja:<div style={{ marginLeft: 4 }}>Daniel Wojnar (<a href='mailto:apteczkanaszlaku@gmail.com'>apteczkanaszlaku@gmail.com</a>)"
   },
