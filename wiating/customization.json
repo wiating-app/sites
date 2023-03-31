@@ -5,10 +5,9 @@
     "siteDescription": "Wiating, czyli chatki w górach.",
     "themeColor": "#4c4c42",
     "lightTheme": false,
-    "logo": ["/wiating/logo.png", "/wiating/logo@2x.png"],
-    "purelogo": ["/wiating/purelogo.png", "/wiating/purelogo@2x.png"],
-    "logotype": ["/wiating/logotype.png", "/wiating/logotype@2x.png"],
-    "favicon": "public/wiating/favicon.png",
+    "logo": ["/logo.png", "/logo@2x.png"],
+    "purelogo": ["/purelogo.png", "/purelogo@2x.png"],
+    "logotype": ["/logotype.png", "/logotype@2x.png"],
     "info": "Witaj w aplikacji grupy facebookowej <br/><a href=\"https://www.facebook.com/groups/938290029559772\" target=\"_blank\">Wiating czyli chatki w górach</a>!",
     "adminInfo": "Administracja:<div style={{ marginLeft: 4 }}>Dariusz Hajduk (<a href=\"mailto:wiating@wiating.eu\">wiating@wiating.eu</a>)</div>"
   },
@@ -131,8 +130,8 @@
       "color": "#c11818"
     }
   ],
-  "termsAndConditions": "/wiating/terms-and-conditions.html",
-  "privacyPolicy": "/wiating/privacy-policy.html",
+  "termsAndConditions": "/terms-and-conditions.html",
+  "privacyPolicy": "/privacy-policy.html",
   "faq": [
     {
       "q": "Czym jest wiating.eu?",

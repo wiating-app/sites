@@ -5,10 +5,9 @@
     "siteDescription": "Apteczka Na Szlaku",
     "themeColor": "#fff",
     "lightTheme": true,
-    "logo": ["/apteczka-na-szlaku/logo.png", "/apteczka-na-szlaku/logo@2x.png"],
-    "purelogo": ["/apteczka-na-szlaku/purelogo.png", "/apteczka-na-szlaku/purelogo@2x.png"],
-    "logotype": ["/apteczka-na-szlaku/logotype.png", "/apteczka-na-szlaku/logotype@2x.png"],
-    "favicon": "public/apteczka-na-szlaku/favicon.png",
+    "logo": ["/logo.png", "/logo@2x.png"],
+    "purelogo": ["/purelogo.png", "/purelogo@2x.png"],
+    "logotype": ["/logotype.png", "/logotype@2x.png"],
     "info": "Aplikacja inicjatywy <a href='https://apteczkanaszlaku.eu//' target='_blank'>Apteczka Na Szlaku</a>",
     "adminInfo": "Administracja:<div style={{ marginLeft: 4 }}>Daniel Wojnar (<a href='mailto:apteczkanaszlaku@gmail.com'>apteczkanaszlaku@gmail.com</a>)"
   },
@@ -59,8 +58,8 @@
       "color": "#333333"
     }
   ],
-  "termsAndConditions": "/apteczka-na-szlaku/terms-and-conditions.html",
-  "privacyPolicy": "/apteczka-na-szlaku/privacy-policy.html",
+  "termsAndConditions": "/terms-and-conditions.html",
+  "privacyPolicy": "/privacy-policy.html",
   "settings": {
     "enableVerification": false,
     "enableReport": false,
