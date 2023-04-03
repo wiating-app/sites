@@ -61,9 +61,16 @@
     "enableVerification": false,
     "enableReport": false,
     "enableExport": false,
-    "enableDirectionsField": false,
+    "enableDirectionsField": true,
     "enableFireField": false,
-    "enableWaterField": false,
-    "googleAnalyticsId": "UA-169624700-1"
+    "enableWaterField": false
+  },
+  "translations": {
+    "pl": {
+      "directions": "Miejsce położenia apteczki"
+    },
+    "en": {
+      "directions": "Location of the first aid"
+    }
   }
 }
