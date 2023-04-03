@@ -67,10 +67,12 @@
   },
   "translations": {
     "pl": {
-      "directions": "Miejsce położenia apteczki"
+      "directions": "Miejsce położenia apteczki",
+      "search": "Szukaj apteczki"
     },
     "en": {
-      "directions": "Location of the first aid"
+      "directions": "Location of the first aid",
+      "search": "Search"
     }
   }
 }
