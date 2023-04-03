@@ -63,7 +63,8 @@
     "enableExport": false,
     "enableDirectionsField": true,
     "enableFireField": false,
-    "enableWaterField": false
+    "enableWaterField": false,
+    "showVersionInfo": false
   },
   "translations": {
     "pl": {

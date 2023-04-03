@@ -178,6 +178,7 @@
     "enableDirectionsField": true,
     "enableFireField": true,
     "enableWaterField": true,
-    "googleAnalyticsId": "UA-169624700-1"
+    "googleAnalyticsId": "UA-169624700-1",
+    "showVersionInfo": true
   }
 }
