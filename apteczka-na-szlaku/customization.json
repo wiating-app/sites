@@ -6,7 +6,7 @@
     "themeColor": "#fff",
     "lightTheme": true,
     "info": "Aplikacja inicjatywy <a href='https://apteczkanaszlaku.eu//' target='_blank'>Apteczka Na Szlaku</a>",
-    "adminInfo": "Administracja:<div style={{ marginLeft: 4 }}>Daniel Wojnar (<a href='mailto:apteczkanaszlaku@gmail.com'>apteczkanaszlaku@gmail.com</a>)"
+    "adminInfo": "Daniel Wojnar (<a href='mailto:apteczkanaszlaku@gmail.com'>apteczkanaszlaku@gmail.com</a>)"
   },
   "locationTypes": [
     {

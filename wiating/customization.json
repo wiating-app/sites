@@ -6,7 +6,8 @@
     "themeColor": "#4c4c42",
     "lightTheme": false,
     "info": "Witaj w aplikacji grupy facebookowej <br/><a href=\"https://www.facebook.com/groups/938290029559772\" target=\"_blank\">Wiating czyli chatki w górach</a>!",
-    "adminInfo": "Administracja:<div style={{ marginLeft: 4 }}>Dariusz Hajduk (<a href=\"mailto:wiating@wiating.eu\">wiating@wiating.eu</a>)</div>"
+    "adminInfo": "Dariusz Hajduk (<a href='mailto:wiating@wiating.eu'>wiating@wiating.eu</a>)",
+    "legalInfo": "Weronika Bednarska <a href=\"https://soinlaw.com\" target=\"_blank\"> <img src=\"/soinlaw.png\" alt=\"SO IN LAW\" title=\"SO IN LAW\" /></a>"
   },
   "locationTypes": [
     {
