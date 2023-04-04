@@ -4,6 +4,7 @@
     "siteName": "Apteczka Na Szlaku",
     "siteDescription": "Apteczka Na Szlaku",
     "themeColor": "#fff",
+    "secondaryColor": "#c11818",
     "lightTheme": true,
     "info": "Aplikacja inicjatywy <a href='https://apteczkanaszlaku.eu//' target='_blank'>Apteczka Na Szlaku</a>",
     "adminInfo": "Daniel Wojnar (<a href='mailto:apteczkanaszlaku@gmail.com'>apteczkanaszlaku@gmail.com</a>)"
